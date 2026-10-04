@@ -9,10 +9,9 @@ Com um histórico profissional que une design, marketing e administração, dese
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Bagagem técnica
 
-
-#### Backend & Arquitetura
+##### Backend & Arquitetura
 
 
 <img 
@@ -57,7 +56,7 @@ Com um histórico profissional que une design, marketing e administração, dese
 <br/>
 <br/>
 
-#### Front-end
+##### Front-end
 <img 
     align="left" 
     alt="HTML"
@@ -88,7 +87,7 @@ Com um histórico profissional que une design, marketing e administração, dese
 <br/>
 
 
-#### Banco de Dados, Cloud & DevOps
+##### Banco de Dados, Cloud & DevOps
 
 <img 
     align="left" 
@@ -130,7 +129,7 @@ Com um histórico profissional que une design, marketing e administração, dese
 <br/>
 <br/>
 
-#### Ferramentas & Design
+##### Ferramentas & Design
 
 <img 
     align="left" 
