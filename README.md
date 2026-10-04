@@ -9,7 +9,7 @@ Com um histórico profissional que une design, marketing e administração, dese
 
 ---
 
-### 🤖 Tech Stack
+### 🤖 Linguagens e Tecnologias
 
 
 #### Backend & Arquitetura
